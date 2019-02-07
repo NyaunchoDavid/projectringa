@@ -3,6 +3,9 @@
   height:49px;
   padding:9px;
 }
+ol{
+  margin-left:-39px;
+}
 ol li{
   float:left;
   list-style-type:none;
