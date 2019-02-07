@@ -26,3 +26,11 @@ ol li a:hover{
   width:1031px;
   padding:120px;
 }
+#fine{
+  font-size:56px;
+  color:#66143d;
+  width:300px;
+  position:absolute;
+  bottom:40px;
+  left:22px;
+}
