@@ -1,4 +1,8 @@
-h3{
-  color:blue;
-  background-color:red;
+.starter{
+  background-color:#00143d;
+  height:30px;
+  padding:12px;
+}
+ol li{
+  float:left;
 }
