@@ -48,4 +48,8 @@ img{
 }
 h5{
   font-size:34px;
+  border:none;
+  margin:0 auto;
+  padding:12px;
+  text-align:center;
 }
