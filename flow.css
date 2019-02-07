@@ -1,7 +1,7 @@
 .starter{
   background-color:#00143d;
-  height:40px;
-  padding:8px;
+  height:49px;
+  padding:9px;
 }
 ol li{
   float:left;
@@ -12,7 +12,17 @@ ol li a{
   text-decoration:none;
   padding:6px;
   font-size:28px;
-  line-height:-57px;
   color:#f3b3fd;
-  padding-bottom:22px;
+}
+ol li a:hover{
+  color:#5454cd;
+}
+.intro{
+  background-image:url("/home/david/Pictures/love.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  height:240px;
+  width:1031px;
+  padding:120px;
 }
