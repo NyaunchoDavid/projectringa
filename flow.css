@@ -37,3 +37,15 @@ ol li a:hover{
   bottom:40px;
   left:22px;
 }
+img{
+  float:left;
+  padding:px;
+}
+.gallery{
+  border:2px solid #000;
+  height:400px;
+  padding:32px;
+}
+h5{
+  font-size:34px;
+}
