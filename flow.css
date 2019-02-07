@@ -1,8 +1,18 @@
 .starter{
   background-color:#00143d;
-  height:30px;
-  padding:12px;
+  height:40px;
+  padding:8px;
 }
 ol li{
   float:left;
+  list-style-type:none;
+  text-decoration:none;
+}
+ol li a{
+  text-decoration:none;
+  padding:6px;
+  font-size:28px;
+  line-height:-57px;
+  color:#f3b3fd;
+  padding-bottom:22px;
 }
